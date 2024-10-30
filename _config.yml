@@ -10,9 +10,7 @@ plugins:
   - jekyll-sitemap                      
 
 header_pages:
-  - index.html                           
-  - about.html                           
-  - posts.html                           
+  - index.html                                                 
 
 social_links:
   github: "https://github.com/n4bm" 
