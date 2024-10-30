@@ -3,7 +3,7 @@ description: "Exploring Cybersecurity, Tools, and Techniques"
 baseurl: ""                      
 url: "https://n4bm.github.io" 
 
-remote_theme: "pages-themes/hacker@v0.2.0"
+remote_theme: "jekyll-theme-cayman"
 plugins:
   - jekyll-feed                         
   - jekyll-seo-tag                      
